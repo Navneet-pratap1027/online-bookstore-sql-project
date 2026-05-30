@@ -104,8 +104,6 @@ The primary objective is to extract meaningful business insights related to sale
 
 ## 📸 Project Screenshots
 
-## 📸 Project Screenshots
-
 ### SQL Query Results
 
 This screenshot shows the execution of SQL queries and the generated results in Supabase SQL Editor.
